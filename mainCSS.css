@@ -1,0 +1,37 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.borderY{ border-color:black; border-style:solid; border-width:1px;}
+.marginTop5{ margin-top:5px;}
+.marginTop15{margin-top:15px;}
+.ColorBlack{color:black;}
+
+/*Wide card with share menu button */
+.demo-card-wide.mdl-card {
+  /*width: 512px;*/
+  width:256px;
+}
+
+.demo-card-wide > .mdl-card__title {
+  color: #fff;
+  height: 176px;
+}
+
+#limo1{background:url(images/limo1.jpg) center / contain;}
+#limo2{background:url(images/limo2.jpg) center / contain;}
+#limo3{background:url(images/limo3.jpg) center / contain;}
+#limo4{background:url(images/limo4.jpg) center / contain;}
+#limo5{background:url(images/limo5.jpg) center / contain;}
+#limo6{background:url(images/limo6.jpg) center / contain;}
+#limo7{background:url(images/limo7.jpg) center / contain;}
+#limo8{background:url(images/limo8.jpg) center / contain;}
+#limo9{background:url(images/limo9.jpg) center / contain;}
+#limo10{background:url(images/limo10.jpg) center / contain;}
+#limo11{background:url(images/limo11.jpg) center / contain;}
+
+.demo-card-wide > .mdl-card__menu {
+  color: #fff;
+}
+/* End Wide card with share menu button */
+.font18{ font-size:18px}
+.font20{ font-size: 20px;}
